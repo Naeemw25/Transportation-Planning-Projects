@@ -17,3 +17,10 @@ Meaford Moves - Municipality of Meaford - Meaford, ON
 •	Developed a strategic vision and service expansion plan proposing extended operating hours, additional service days, and equitable fare structures. Also, researched and benchmarked comparable transit services across Grey and Bruce Counties to identify best practices and scalable improvements.
 •	Proposed policy and program enhancements, including monthly passes, volunteer driver programs, healthcare partnerships, and flexible service models.
 •	Produced a professional planning report with data visualizations, comparative tables, and evidence-based recommendations for municipal decision-makers. 
+
+PUDOlinx: The Role of Pick-up and Drop-off in Accessing Rapid Transit - Metrolinx - Toronto, ON                              
+•	Conducted a comprehensive assessment of current pick-up and drop-off (PUDO) activity at transit stations in the Greater Golden Horseshoe, examining user types, transportation modes, and operational needs.
+•	Compared PUDO practices across various non-transit and transit locations (e.g., shopping malls, airports, GO stations), identifying similarities and differences in design, usage, and service integration.
+•	Analyzed customer behavior and modal trends, including kiss-and-ride, taxis, paratransit, and ride-hailing services, to understand user demographics and trip-making motivations.
+•	Evaluated infrastructure standards and station typologies to recommend critical design and operational improvements for future PUDO facilities, tailored to urban, suburban, and regional transit environments.
+•	Developed strategic planning guidance and policy recommendations for Metrolinx to support evolving PUDO needs, considering emerging technologies and future access trends.
